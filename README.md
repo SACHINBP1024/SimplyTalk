@@ -75,7 +75,7 @@ To enhance portability and convenience, SimplyTalk could evolve into a wearable 
 
 *IF YOU HOST FROM A DEVICE AND WANT TO USE ON ANOTHER DEVICE, USE NGROK OR ANY OTHER METHODS FOR MAKING HTTPS CONNECTION*
 
-##Screenshots 📷📱
+## Screenshots 📷📱
 ![Screenshots ](https://github.com/user-attachments/assets/6c4a9276-cf58-401f-ae62-9b95cc477ca7)
 
 ## Contributing 🤝
