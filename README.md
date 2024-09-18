@@ -61,10 +61,17 @@ To enhance portability and convenience, SimplyTalk could evolve into a wearable 
     python main.py
     ```
 
-4. **Use ngrok for HTTPS connection**:
-    ```bash
-    ./ngrok http 5000
-    ```
+4. **Set up ngrok for HTTPS connection**:
+    - **Download ngrok**: Visit the [ngrok download page](https://ngrok.com/download) and download the appropriate version for your operating system.
+    - **Install ngrok**: Follow the installation instructions provided on the ngrok download page.
+    - **Authenticate ngrok**: Sign up for an ngrok account and get your authentication token from the [ngrok dashboard](https://dashboard.ngrok.com/get-started/your-authtoken). Run the following command to authenticate ngrok with your token:
+        ```bash
+        ngrok authtoken YOUR_AUTH_TOKEN
+        ```
+    - **Start ngrok**: Run ngrok to create an HTTPS tunnel to your local server:
+        ```bash
+        ./ngrok http 5000
+        ```
 
 *IF YOU HOST FROM A DEVICE AND WANT TO USE ON ANOTHER DEVICE, USE NGROK OR ANY OTHER METHODS FOR MAKING HTTPS CONNECTION*
 
