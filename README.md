@@ -47,7 +47,7 @@ To enhance portability and convenience, SimplyTalk could evolve into a wearable 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/simplytalk.git
+    git clone https://github.com/sachinbp1024/simplytalk.git
     cd simplytalk
     ```
 
