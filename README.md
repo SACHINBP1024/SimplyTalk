@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/SACHINBP1024"><img src="https://github.com/user-attachments/assets/56d96bf3-246f-4662-b2d8-ca094ca81787" alt="SACHINBP1024" width="298" /></a> 
 </p>
-# SimplyTalk 📱🗣️
+<h1></h1>SimplyTalk 📱🗣️</h1>
 
 **SimplyTalk** is an innovative mobile application designed to transcribe external conversations and public announcements in real-time, particularly catering to the needs of deaf and hard-of-hearing individuals. 
 
