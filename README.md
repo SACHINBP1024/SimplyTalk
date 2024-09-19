@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/SACHINBP1024"><img src="https://github.com/user-attachments/assets/56d96bf3-246f-4662-b2d8-ca094ca81787" alt="SACHINBP1024" width="298" /></a> 
 </p>
+<p align="center">
+  <a href="https://github.com/SACHINBP1024/SimplyTalk"><img src="https://github.com/SACHINBP1024/SimplyTalk/blob/main/static/logo.png" alt="SimplyTalk" width="298" /></a> 
+</p>
 
 # SimplyTalk 📱🗣️
 
