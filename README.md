@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SACHINBP1024"><img src="https://github.com/user-attachments/assets/1cc7cd2c-a715-498f-8343-d62ee0ae81d0" alt="SACHINBP1024" width="298" /></a> 
+  <a href="https://github.com/SACHINBP1024"><img src="https://github.com/user-attachments/assets/56d96bf3-246f-4662-b2d8-ca094ca81787" alt="SACHINBP1024" width="298" /></a> 
 </p>
 # SimplyTalk 📱🗣️
 
