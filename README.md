@@ -1,4 +1,7 @@
 <p align="center">
+  <a href="https://github.com/INTROX-AI"><img src="https://github.com/user-attachments/assets/7e2639bf-80cd-4d31-9a3d-5261ea2ae886" alt="SACHINBP1024" width="298" /></a> 
+</p>
+<p align="center">
   <a href="https://github.com/SACHINBP1024"><img src="https://github.com/user-attachments/assets/fea84d86-8f4a-4741-8afc-0961569d9300" alt="SACHINBP1024" width="298" /></a> 
 </p>
 <p align="center">
